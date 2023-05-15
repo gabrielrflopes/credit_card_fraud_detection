@@ -18,3 +18,8 @@ Os dados originais foram separados entre um conjunto de treino e de teste. Dentr
   * AUC:      92,8%
 
 Tendo em vista as métricas de desempenho nos dados de teste, comparando o número de fraudes detectadas, bem como a proporção de Falso Positivos e Falsos Negativos, concluiu-se que o melhor modelo para detecção de fraudes em cartões de crédito, nesse contexto, é o de regressão logística.
+
+## Link para o projeto completo
+  
+[Detecção de Fraudes em Cartões de Crédito](https://github.com/gabrielrflopes/credit_card_fraud_detection/blob/main/Detec%C3%A7%C3%A3o_de_Fraudes_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
+
