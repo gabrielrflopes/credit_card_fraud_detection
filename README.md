@@ -23,3 +23,4 @@ Tendo em vista as métricas de desempenho nos dados de teste, comparando o núme
   
 [Detecção de Fraudes em Cartões de Crédito](https://github.com/gabrielrflopes/credit_card_fraud_detection/blob/main/Detec%C3%A7%C3%A3o_de_Fraudes_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 
+<sub>[Retornar ao Portfólio](https://github.com/gabrielrflopes/Data-Science-Portfolio)
