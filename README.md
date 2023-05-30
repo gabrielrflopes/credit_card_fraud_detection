@@ -1,5 +1,5 @@
 # Detecção de Fraudes em Cartões de Crédito
-<sub> TAGS: Aprendizado de Máquina; Regressão Logística; Árvore de Decisão; Segmentação Supervisionada; Análise Exploratória de Dados; Visualização de Dados
+<sub> TAGS: Aprendizado de Máquina; Regressão Logística; Árvore de Decisão; Segmentação Supervisionada; Feature Engineering; Análise Exploratória de Dados; Visualização de Dados
 
 Neste projeto, desenvolvi dois modelos de aprendizado supervisionado com a finalidade de detectar fraudes em cartões de crédito. Os dados consistem de transações realizadas por clientes europeus num período de 48 horas. Foi realizada a análise exploratória dos dados, para investigar valores nulos, *outliers* e padrões nos atributos que contribuiriam para a construção do modelo posteriormente.
   
